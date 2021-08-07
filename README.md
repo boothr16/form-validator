@@ -1,1 +1,2 @@
-# form-validator
+# form-validato
+Intro JS project
